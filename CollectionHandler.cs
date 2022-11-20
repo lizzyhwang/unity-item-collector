@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// Add this class as a component to the character picking up the item.
+// Add this script as a component to the character picking up the item.
 public class CollectionHandler : MonoBehaviour
 {
     [SerializeField]
